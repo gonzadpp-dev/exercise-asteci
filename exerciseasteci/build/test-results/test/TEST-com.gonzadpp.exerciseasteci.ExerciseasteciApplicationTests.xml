@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gonzadpp.exerciseasteci.ExerciseasteciApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-06-03T21:36:29.894Z" hostname="codespaces-c5895d" time="1.067">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.gonzadpp.exerciseasteci.ExerciseasteciApplicationTests" time="1.067"/>
+  <system-out><![CDATA[21:36:26.796 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.gonzadpp.exerciseasteci.ExerciseasteciApplicationTests]: ExerciseasteciApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+21:36:26.935 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.gonzadpp.exerciseasteci.ExerciseasteciApplication for test class com.gonzadpp.exerciseasteci.ExerciseasteciApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.7)
+
+2026-06-03T21:36:27.627Z  INFO 12829 --- [exerciseasteci] [    Test worker] c.g.e.ExerciseasteciApplicationTests     : Starting ExerciseasteciApplicationTests using Java 17.0.19 with PID 12829 (started by codespace in /workspaces/exercise-asteci/exerciseasteci)
+2026-06-03T21:36:27.643Z  INFO 12829 --- [exerciseasteci] [    Test worker] c.g.e.ExerciseasteciApplicationTests     : No active profile set, falling back to 1 default profile: "default"
+2026-06-03T21:36:29.876Z  INFO 12829 --- [exerciseasteci] [    Test worker] c.g.e.ExerciseasteciApplicationTests     : Started ExerciseasteciApplicationTests in 2.778 seconds (process running for 4.691)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
